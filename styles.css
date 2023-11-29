@@ -4,7 +4,7 @@ body{
 }
 .book-library{
 	width:100vw;
-	background-color:#f8f8f8;
+	background-color:#ffffff;
 	text-align:center;
 }
 .horizontal-line{
@@ -28,6 +28,6 @@ body{
 	padding:5px;
 	border:none;
 	border-radius:5px;
-	color:white;
+	color:#2ecc71;
 	margin-bottom:10px;
 }
